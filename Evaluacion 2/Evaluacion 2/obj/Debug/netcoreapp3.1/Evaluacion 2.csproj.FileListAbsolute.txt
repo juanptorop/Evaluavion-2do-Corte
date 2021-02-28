@@ -1,0 +1,13 @@
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.exe
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.deps.json
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.runtimeconfig.json
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.runtimeconfig.dev.json
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.dll
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\bin\Debug\netcoreapp3.1\Evaluacion 2.pdb
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.csprojAssemblyReference.cache
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.AssemblyInfoInputs.cache
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.AssemblyInfo.cs
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.csproj.CoreCompileInputs.cache
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.dll
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.pdb
+C:\Users\PABLO PEREZ\source\repos\Evaluacion 2\Evaluacion 2\obj\Debug\netcoreapp3.1\Evaluacion 2.genruntimeconfig.cache
